@@ -1,4 +1,4 @@
-- 💼 Working as Front-End Developr
+- 💼 Working as a Front-End Developr
 - 📫 Feel free to contact me at edmarktuazon03@gmail.com
 
 <!---

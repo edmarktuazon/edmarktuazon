@@ -1,4 +1,4 @@
-#ABOUT ME
+# ABOUT ME
 A self-taught Software Developer focused on Frontend, able to Develop, Responsive, Intuitive and User-Friendly Websites using the latest Frontend Technologies.
 
 

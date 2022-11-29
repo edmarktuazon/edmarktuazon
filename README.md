@@ -3,7 +3,7 @@ A self-taught Software Developer focused on Frontend, able to Develop, Responsiv
 
 
 
-- 💼 Working as a Front-End Developr
+- 💼 Working as a Frontend Developer
 - 📫 Feel free to contact me at edmarktuazon03@gmail.com
 
 <!---
